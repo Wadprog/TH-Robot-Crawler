@@ -1,0 +1,20 @@
+{
+  "name": "hs-th-pupeteer",
+  "version": "1.0.0",
+  "description": "Go and merge case on hs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tophatter",
+    "Helpscout",
+    "Pupeteer",
+    "caseMerger"
+  ],
+  "author": "Wadson Vaval",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
