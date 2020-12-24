@@ -1,0 +1,18 @@
+
+//--Conversation I have tested--//
+//bot.clickMergeLink('https://secure.helpscout.net/conversation/1365882371')
+// bot.clickMergeLink('https://secure.helpscout.net/conversation/1369658758')
+//bot.clickMergeLink('https://secure.helpscout.net/conversation/1369682170')
+
+//testing with arrays
+//fixConversations(['https://secure.helpscout.net/conversation/1368039720'])
+//fixConversations(['https://secure.helpscout.net/conversation/1369680562'])
+//fixConversations(['https://secure.helpscout.net/conversation/1369680562'])
+
+// bot.clickMergeLinkh('https://secure.helpscout.net/conversation/1369680562')
+//test('https://secure.helpscout.net/conversation/1366457331/2887287/')
+//bot.conversationFix('https://secure.helpscout.net/conversation/1370529083')
+//bot.conversationFix('https://secure.helpscout.net/conversation/1372162999') error 500 del aut
+//bot.conversationFix('https://secure.helpscout.net/conversation/1365915447')
+//bot.conversationFix('https://secure.helpscout.net/conversation/1372054196')
+//bot.conversationFix('https://secure.helpscout.net/conversation/1366342012')

@@ -13,7 +13,6 @@ environment.production = {
 environment.development = {
   browserConfig: {
     headless: false,
-    sloMo: 200,
     devtools: true,
   },
 }

@@ -4,7 +4,9 @@
   "description": "Go and merge case on hs ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production node app.js ",
+    "startDev": " NODE_ENV=development node app.js "
   },
   "keywords": [
     "Tophatter",
@@ -15,6 +17,7 @@
   "author": "Wadson Vaval",
   "license": "ISC",
   "dependencies": {
+    "helpscout-2.0": "^1.1.5",
     "puppeteer": "^5.5.0"
   }
 }
